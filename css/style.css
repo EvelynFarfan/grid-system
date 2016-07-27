@@ -1,0 +1,121 @@
+/* Inserta tu código aqui */
+header {
+	background-color: #333333;
+}
+header nav.menu ul li{
+	list-style: none;
+	float: right;
+	display: inline-block;
+	margin-top:60px; 
+}
+header nav.menu ul a{
+	padding: 10px 15px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: arial;
+	top:40px;	
+}
+header nav ul a:hover{
+background-color: gray;
+} 
+.logo{
+	height:100px;
+	float: left;
+	margin: 15px;
+}
+
+#seccion-uno {
+	background-color: #eeeeee;
+	padding-bottom: 3%;
+}
+#seccion-uno img {
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #afafaf;
+}
+#seccion-dos {
+	padding: 25px 0px;
+    margin-left: -15px;
+}
+#seccion-dos .container .row{
+	margin-left: -7px;
+}
+#seccion-dos .container .row .col-9 .row img {
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #afafaf;
+	margin-top: 20%;
+}
+a {
+text-decoration: none;
+color: #3176b5;
+font-family: arial;
+}
+h3 {
+	font-family: arial;
+	padding: 20px 0px;
+	display: inline-block;
+}
+.min {
+	font-size: 12px;
+}
+.line{
+	width: 260px;
+  border: 1px solid #d4d4d4;
+  margin-top: -12px;
+  margin-bottom: 29px;
+}
+.bloque{
+	margin-bottom: 40px;
+}
+.bloque h3{
+	font-family: Arial;
+	font-weight: 600;
+	color: #585858;
+}
+.bloque p{
+	font-family: Arial;
+	font-size:16px;
+}
+.bloque a{
+	text-decoration: none;
+}
+.col-3 p img.icons {
+	margin-right: 15px;
+	width: 13.5px;
+}
+footer {
+	height: 272px;
+	background: #6E6E6E;
+	text-align: center;
+	font-family: arial;
+}
+footer a{
+	color: #424242;
+}
+footer .container {
+	text-decoration: none;
+	padding-left: 8px;
+	padding-top: 40px;
+	color: gray;
+}
+footer div.container div.menu-footer a {
+	font-size: 1em;
+	text-decoration: none;
+	color: #424242;
+}
+.texto1-footer {
+	color: white;
+	font-size: 21px;
+	padding-top: 12px;
+	text-align: left;
+}
+.menu-footer {
+	margin: 50px;
+}
+.texto2-footer {
+	color: #424242;
+	font-size: 0.7em;
+	margin: 50px;
+}
